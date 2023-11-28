@@ -1,0 +1,4 @@
+Hittat 'den' på sida 0, i fil: .\Data\Lokala regler 2023 Ryfors GK 2023.pdf
+Hittat 'den' på sida 1, i fil: .\Data\Lokala regler 2023 Ryfors GK 2023.pdf
+Hittat 'den' på sida 0, i fil: .\Data\Maintenance and Repair Engineer (Electricity) - Aurobay - Skovde.pdf
+Hittat 'den' i fil: .\Data\NCvar selector.docx
